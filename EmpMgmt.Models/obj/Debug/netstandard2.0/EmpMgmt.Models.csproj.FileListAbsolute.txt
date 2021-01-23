@@ -1,0 +1,9 @@
+D:\.NET Assignment\EmpMgmt\EmpMgmt.Models\bin\Debug\netstandard2.0\EmpMgmt.Models.deps.json
+D:\.NET Assignment\EmpMgmt\EmpMgmt.Models\bin\Debug\netstandard2.0\EmpMgmt.Models.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.Models\bin\Debug\netstandard2.0\EmpMgmt.Models.pdb
+D:\.NET Assignment\EmpMgmt\EmpMgmt.Models\obj\Debug\netstandard2.0\EmpMgmt.Models.csproj.CoreCompileInputs.cache
+D:\.NET Assignment\EmpMgmt\EmpMgmt.Models\obj\Debug\netstandard2.0\EmpMgmt.Models.AssemblyInfoInputs.cache
+D:\.NET Assignment\EmpMgmt\EmpMgmt.Models\obj\Debug\netstandard2.0\EmpMgmt.Models.AssemblyInfo.cs
+D:\.NET Assignment\EmpMgmt\EmpMgmt.Models\obj\Debug\netstandard2.0\EmpMgmt.Models.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.Models\obj\Debug\netstandard2.0\EmpMgmt.Models.pdb
+D:\.NET Assignment\EmpMgmt\EmpMgmt.Models\obj\Debug\netstandard2.0\EmpMgmt.Models.csprojAssemblyReference.cache

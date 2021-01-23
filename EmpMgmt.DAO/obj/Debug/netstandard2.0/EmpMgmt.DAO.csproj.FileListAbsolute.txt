@@ -1,0 +1,9 @@
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DAO\bin\Debug\netstandard2.0\EmpMgmt.DAO.deps.json
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DAO\bin\Debug\netstandard2.0\EmpMgmt.DAO.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DAO\bin\Debug\netstandard2.0\EmpMgmt.DAO.pdb
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DAO\obj\Debug\netstandard2.0\EmpMgmt.DAO.csproj.CoreCompileInputs.cache
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DAO\obj\Debug\netstandard2.0\EmpMgmt.DAO.AssemblyInfoInputs.cache
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DAO\obj\Debug\netstandard2.0\EmpMgmt.DAO.AssemblyInfo.cs
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DAO\obj\Debug\netstandard2.0\EmpMgmt.DAO.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DAO\obj\Debug\netstandard2.0\EmpMgmt.DAO.pdb
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DAO\obj\Debug\netstandard2.0\EmpMgmt.DAO.csprojAssemblyReference.cache

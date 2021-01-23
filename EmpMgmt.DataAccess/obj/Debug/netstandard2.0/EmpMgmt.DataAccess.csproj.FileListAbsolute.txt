@@ -1,0 +1,16 @@
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\bin\Debug\netstandard2.0\EmpMgmt.DataAccess.deps.json
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\bin\Debug\netstandard2.0\EmpMgmt.DataAccess.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\bin\Debug\netstandard2.0\EmpMgmt.DataAccess.pdb
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\bin\Debug\netstandard2.0\EmpMgmt.DAO.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\bin\Debug\netstandard2.0\EmpMgmt.Models.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\bin\Debug\netstandard2.0\EmpMgmt.DAO.pdb
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\bin\Debug\netstandard2.0\EmpMgmt.Models.pdb
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.xml
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\obj\Debug\netstandard2.0\EmpMgmt.DataAccess.csprojAssemblyReference.cache
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\obj\Debug\netstandard2.0\EmpMgmt.DataAccess.csproj.CoreCompileInputs.cache
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\obj\Debug\netstandard2.0\EmpMgmt.DataAccess.AssemblyInfoInputs.cache
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\obj\Debug\netstandard2.0\EmpMgmt.DataAccess.AssemblyInfo.cs
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\obj\Debug\netstandard2.0\EmpMgmt.DataAccess.csproj.CopyComplete
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\obj\Debug\netstandard2.0\EmpMgmt.DataAccess.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.DataAccess\obj\Debug\netstandard2.0\EmpMgmt.DataAccess.pdb

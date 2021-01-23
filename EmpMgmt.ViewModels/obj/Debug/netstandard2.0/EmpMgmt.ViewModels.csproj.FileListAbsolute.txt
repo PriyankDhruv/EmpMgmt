@@ -1,0 +1,12 @@
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\bin\Debug\netstandard2.0\EmpMgmt.ViewModels.deps.json
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\bin\Debug\netstandard2.0\EmpMgmt.ViewModels.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\bin\Debug\netstandard2.0\EmpMgmt.ViewModels.pdb
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\bin\Debug\netstandard2.0\EmpMgmt.DAO.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\bin\Debug\netstandard2.0\EmpMgmt.DAO.pdb
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\obj\Debug\netstandard2.0\EmpMgmt.ViewModels.csprojAssemblyReference.cache
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\obj\Debug\netstandard2.0\EmpMgmt.ViewModels.csproj.CoreCompileInputs.cache
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\obj\Debug\netstandard2.0\EmpMgmt.ViewModels.AssemblyInfoInputs.cache
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\obj\Debug\netstandard2.0\EmpMgmt.ViewModels.AssemblyInfo.cs
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\obj\Debug\netstandard2.0\EmpMgmt.ViewModels.csproj.CopyComplete
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\obj\Debug\netstandard2.0\EmpMgmt.ViewModels.dll
+D:\.NET Assignment\EmpMgmt\EmpMgmt.ViewModels\obj\Debug\netstandard2.0\EmpMgmt.ViewModels.pdb
